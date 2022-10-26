@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 4ef38439d959fe443a508dea4ce20386
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bridge_and_tank_mat
+    second: {fileID: 2100000, guid: 2f70cbfcd83395a44b4a678291a3a250, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DIS01_MAT
+    second: {fileID: 2100000, guid: ef8c3031a4c9f2241a30449931c6e4af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: e681ca1483f93b542874d5435bce9751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Emergency_Depressurizing
+    second: {fileID: 2100000, guid: a18c55d3410e60242945ef1884548a03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METER
+    second: {fileID: 2100000, guid: 626308c4ea4d6fd4ba64b6a0e94426de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Normal_Shutdown_part04
+    second: {fileID: 2100000, guid: 57cda6cff3a434049b444879c7741deb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Valve_Mat
+    second: {fileID: 2100000, guid: 3b94522cccf57b348993045e9855d472, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn2
+    second: {fileID: 2100000, guid: 39039324eff28a24aa4e1fbf0b940d1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn5
+    second: {fileID: 2100000, guid: c893eb7bc1b95a54a95950df93793b43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hpcl_Floor1
+    second: {fileID: 2100000, guid: 6afab36664a17f247b68fab34e936764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hpcl_mat
+    second: {fileID: 2100000, guid: 1acb534504a50e749a0e73f8e473205e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipes_and_chains_Mat
+    second: {fileID: 2100000, guid: cb49b1d08be3ba84485d30384a8ca820, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipes_mat
+    second: {fileID: 2100000, guid: 525b4881efcab274caa0f74b651350d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipes_valves_mat
+    second: {fileID: 2100000, guid: 7e314eb821dfaed42a9ad1ad9f34edd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: scenario_6_MT_02
+    second: {fileID: 2100000, guid: be293bf8fa48f934da6d4cf09d8fd9ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: valve_Mat
+    second: {fileID: 2100000, guid: 6212c6866707e4241880964e1c8eb758, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 04_METER_BaseColor
+    second: {fileID: 2800000, guid: 11fa2c4c179aa0248a360af66f7c7161, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 04_blinn2_BaseColor
+    second: {fileID: 2800000, guid: 0caf2156d9a601b4aa980acdbb522938, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 04_blinn2_Metallic
+    second: {fileID: 2800000, guid: 0d67f18c927b6104a92e0b9bafadd258, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 04_blinn2_Normal
+    second: {fileID: 2800000, guid: 14ae75305cac0b247b93eef148a3d018, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 04_blinn2_Roughness
+    second: {fileID: 2800000, guid: 92baa6b210f35aa44848e034dff8502a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 04_pipes_mat_BaseColor
+    second: {fileID: 2800000, guid: b671c6c8ce0998c43a42888207a00340, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 04_pipes_mat_Metallic
+    second: {fileID: 2800000, guid: b12a6e0377448a14aa2341086bd30060, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 04_pipes_mat_Normal
+    second: {fileID: 2800000, guid: e8556410e1490124e98d610507b32d02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 04_pipes_mat_Roughness
+    second: {fileID: 2800000, guid: 8ba660a0b3763cd468c428294409de7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bridge_and_tank_mat_Base_Color
+    second: {fileID: 2800000, guid: 49255f01a2dbb23429bdbb3abd751829, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bridge_and_tank_mat_Metallic
+    second: {fileID: 2800000, guid: c4c8a765c9923424aa75e341c081ca00, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bridge_and_tank_mat_Normal_DirectX
+    second: {fileID: 2800000, guid: 710cc58f20756b24ab615a5786d2f1d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bridge_and_tank_mat_Roughness
+    second: {fileID: 2800000, guid: 0a8da59e1ea4c87429975e3e190aee1c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DIS01_DIS01_MAT_BaseColor
+    second: {fileID: 2800000, guid: c3a967965cfe7ec4eab7c76cb805caa2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DIS01_DIS01_MAT_Metallic
+    second: {fileID: 2800000, guid: 81a417ecd5cd8ab4c9705f7113a7167d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DIS01_DIS01_MAT_Normal
+    second: {fileID: 2800000, guid: 27fe9e5b264a06944ae3bcee93cc87fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DIS01_DIS01_MAT_Roughness
+    second: {fileID: 2800000, guid: 8101e20f64d2e3249893153251ad225a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Emergency_Depressurizing__Base_color
+    second: {fileID: 2800000, guid: 7f3d10303f04ff249ba027078cce855c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Emergency_Depressurizing__Metallic
+    second: {fileID: 2800000, guid: 1aff1ae2462679e4e92420f0704dc7fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Emergency_Depressurizing__Normal_OpenGL
+    second: {fileID: 2800000, guid: d817e13bd9ea64f4290e7547de14e923, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Emergency_Depressurizing__Roughness
+    second: {fileID: 2800000, guid: 6503c1bb9df8bba4683e201fec87d639, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floor_Base_Color
+    second: {fileID: 2800000, guid: 6a6708983d7a57a409d8ba9923bb367d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floor_Metallic
+    second: {fileID: 2800000, guid: 5b6c9e403e1e629489e3c7c20f771322, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floor_Normal_DirectX
+    second: {fileID: 2800000, guid: 542808732e841bc44b8485b079ccd9e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floor_Roughness
+    second: {fileID: 2800000, guid: e9929be4f9a5c734da0d98526010a031, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Normal_Shutdown_part04_Base_Color_1001
+    second: {fileID: 2800000, guid: db372db3036a9b345a2f12a1f5672255, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Normal_Shutdown_part04_Metallic_1001
+    second: {fileID: 2800000, guid: c70fe34092059a94bbb7fe2cb23560a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Normal_Shutdown_part04_Mixed_AO_1001
+    second: {fileID: 2800000, guid: 80058b30658387e4e96aee1bfd10229f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Normal_Shutdown_part04_Roughness_1001
+    second: {fileID: 2800000, guid: 88c9377ea6e1829478c205290f03d183, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Valve_Base_Color_1001
+    second: {fileID: 2800000, guid: 90660669dd4938348a35e3c8f802ff82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Valve_Metallic_1001
+    second: {fileID: 2800000, guid: 03abb1f625b0f8b4dbb799154891d570, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Valve_Normal_OpenGL_1001
+    second: {fileID: 2800000, guid: 6a92b762fbca6b8428539e914520868a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Valve_Roughness_1001
+    second: {fileID: 2800000, guid: d6952efe05d867247bf386adbaaa8a9d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Valve_valve_Mat_BaseColor
+    second: {fileID: 2800000, guid: bcec5b4888c233541be049a2b8775206, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Valve_valve_Mat_Normal
+    second: {fileID: 2800000, guid: 731931a963c511e44b0548c74f6e1805, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hpcl_Base_Color
+    second: {fileID: 2800000, guid: f596f10438aca7549aacaad1e6f3ae5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hpcl_Metallic
+    second: {fileID: 2800000, guid: 436532e01e612424183112604f5e6039, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hpcl_Normal_DirectX
+    second: {fileID: 2800000, guid: 482ef01064d4d014f93bb0c741664668, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hpcl_Roughness
+    second: {fileID: 2800000, guid: fd21685f997f7be4dafe891aec585be7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pipes and chains_Base_color
+    second: {fileID: 2800000, guid: f53129b5b54c0f340aef341a5fc9c758, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pipes and chains_Metallic
+    second: {fileID: 2800000, guid: 7be1a841175497c45b87fea8eff5714b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pipes and chains_Normal_DirectX
+    second: {fileID: 2800000, guid: 2df845c2a06e76b49b8e1c18558257ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pipes and chains_Roughness
+    second: {fileID: 2800000, guid: 9bbe554062a5e304289fa8b14b09d3f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pipes_valves_mat_Base_Color
+    second: {fileID: 2800000, guid: d2a3be938984d9a40955316f415a4333, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pipes_valves_mat_Metallic
+    second: {fileID: 2800000, guid: 25a407ea385726549b36b46418c4067b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pipes_valves_mat_Normal_DirectX
+    second: {fileID: 2800000, guid: b939e075236585040a31e94dc1fa8cf0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pipes_valves_mat_Roughness
+    second: {fileID: 2800000, guid: f2a6d1cd69f013e4db3f937e0cbefe27, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scenario_6_MT_01_Base_Color_1002
+    second: {fileID: 2800000, guid: 69a05827e14422e4eab3b3df636f4d40, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scenario_6_MT_01_Metallic_1002
+    second: {fileID: 2800000, guid: f28db7e709cbfe0478fc67ccf185bcf5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scenario_6_MT_01_Mixed_AO_1002
+    second: {fileID: 2800000, guid: 48030ef38416fbf439e05fd23c4bb5c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scenario_6_MT_01_Normal_OpenGL_1002
+    second: {fileID: 2800000, guid: e2a750626084c30478326535e432c290, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: scenario_6_MT_01_Roughness_1002
+    second: {fileID: 2800000, guid: 47d17ccd73ee734479e0c65c652536d0, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

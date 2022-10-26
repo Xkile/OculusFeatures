@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 8d6276e74c62acc49bab09fc1f98c903
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Control_
+    second: {fileID: 2100000, guid: 823c3ba965a8b43439b3dce338013227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Control_Valve
+    second: {fileID: 2100000, guid: 1dd81637552597146942ca60b74b75ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass1
+    second: {fileID: 2100000, guid: 748bdf31f2897b34e9e8446acfbde376, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass1.001
+    second: {fileID: 2100000, guid: d36971f4002bc874499d6935ad3ad282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machine01
+    second: {fileID: 2100000, guid: c654f183186c5ed49ba3f504e754705f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Rod
+    second: {fileID: 2100000, guid: 18d35c19850b55e40a29d8f21cb4ba8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Rod.001
+    second: {fileID: 2100000, guid: 6caf3efc2d398404bb1fdce0658a171b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moter_Part02_1001
+    second: {fileID: 2100000, guid: 10829b96adaa21b4b9e3058f631370ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moter_Part02_1002
+    second: {fileID: 2100000, guid: a0ff2a8eeb365b344883856d02ef34c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moter_part01_1001
+    second: {fileID: 2100000, guid: 1dc11ef0750d8a8479176773f0fd9afd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moter_part_01_1002
+    second: {fileID: 2100000, guid: 5a5254cfc0e73ee47a9c1d2ffc2d0b90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Secondry_Seal1
+    second: {fileID: 2100000, guid: e03deabf4a38af4428eae28a74078722, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Secondry_Seal1.001
+    second: {fileID: 2100000, guid: 1f5bf1ca67754cc41a56d1a353c4d409, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Secondry_Seal_Digital_Meter1
+    second: {fileID: 2100000, guid: bba772d0568709d4ead8548a43583f34, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Control_BaseColor
+    second: {fileID: 2800000, guid: 70ce64574f622644bbf798d1c7fd2080, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Control_Metallic
+    second: {fileID: 2800000, guid: 827704067e6ab914ab768bcb0a5bf473, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Control_Normal
+    second: {fileID: 2800000, guid: 139b7a94d43533944b2fd4d5f5d06a5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Control_Roughness
+    second: {fileID: 2800000, guid: 7917d2fb2bb9a5841a72ae95e48fc7e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Control_Valve__Base_Color
+    second: {fileID: 2800000, guid: 65e28f22dd2abd14484e897d5eeeb422, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Control_Valve__Metallic
+    second: {fileID: 2800000, guid: 2fa8172b81d633648ba40d5f12b53ede, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Control_Valve__Normal_OpenGL
+    second: {fileID: 2800000, guid: 05c158418954acd4da328de89f6da5d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Control_Valve__Roughness
+    second: {fileID: 2800000, guid: 732330c6a37dc1244b470ce4d0d1daf3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ENv_Base_Color
+    second: {fileID: 2800000, guid: 240646edc7b65104cafb0217bfe7d182, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ENv_Base_Color1
+    second: {fileID: 2800000, guid: ea175976534ab7547b2030a20cda705f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Env_Normal_OpenGL
+    second: {fileID: 2800000, guid: 5e1c34a49c63bb74da05ee47711b1ba0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Env_Roughness
+    second: {fileID: 2800000, guid: 88921c914643cfd45baeaf9e38d5e44d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Moter_part01_Base_color_1001
+    second: {fileID: 2800000, guid: 103507dfedb2b3c4da9749c231c1d546, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Moter_part01_Base_color_1002
+    second: {fileID: 2800000, guid: 0412581d68fd53e4abed6bb3cde2d0b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Moter_part01_Metallic_1001
+    second: {fileID: 2800000, guid: 7af8a195c2486014296a10a56d208b08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Moter_part01_Metallic_1002
+    second: {fileID: 2800000, guid: aeb5df9e09783da40a6d60d03d3f0bd4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Moter_part01_Normal_OpenGL_1001
+    second: {fileID: 2800000, guid: dfcbf6b99c4fde44cbd58fff24a1d883, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Moter_part01_Normal_OpenGL_1002
+    second: {fileID: 2800000, guid: bb5b63c779763ca41a03f9ddb6a77cf9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Moter_part01_Roughness_1002
+    second: {fileID: 2800000, guid: 476e49fa73fbafb4ba21fca4764bb8c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Moter_part_02_Base_Color_1001
+    second: {fileID: 2800000, guid: f1c2701b80ec96c44aee7103b21aedad, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Moter_part_02_Base_Color_1002
+    second: {fileID: 2800000, guid: 96c0a98ac03b0264d90a46dfd084f74c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Moter_part_02_Metallic_1001
+    second: {fileID: 2800000, guid: 47b1350591de96740a82cb0e3ee42ee1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Moter_part_02_Metallic_1002
+    second: {fileID: 2800000, guid: 22592205860f9754b8602979a2044153, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Moter_part_02_Normal_OpenGL_1001
+    second: {fileID: 2800000, guid: 3416d9ac2bdfb0145a9df0a45de4ad60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Moter_part_02_Normal_OpenGL_1002
+    second: {fileID: 2800000, guid: 7da61da5c04936249a41edbe997e1ecc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Moter_part_02_Roughness_1001
+    second: {fileID: 2800000, guid: d7d3f20269833554fa8995d597f6e313, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Moter_part_02_Roughness_1002
+    second: {fileID: 2800000, guid: cf23b6febd3548c48b5c31ce0d32dbdc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Secondary_Seal_Base_Color_1001
+    second: {fileID: 2800000, guid: 867433b63e66785468e224628ada4fba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Secondary_Seal_Metallic_1001
+    second: {fileID: 2800000, guid: 83ab7573fbcc4714eafbb1d03477f8de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Secondary_Seal_Normal_OpenGL_1001
+    second: {fileID: 2800000, guid: 38307dcb77faef54c9c42c4100380ce8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Secondary_Seal_Roughness_1001
+    second: {fileID: 2800000, guid: 1a7687051095b894d870addcc0a652ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: machine01_Base_Color_1001
+    second: {fileID: 2800000, guid: bfcd604d8481fdd4892edda0b536d70a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: machine01_Metallic_1001
+    second: {fileID: 2800000, guid: e3a0d1fb430a6134b94e639c8e445e5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: machine01_Normal_OpenGL_1001
+    second: {fileID: 2800000, guid: 6155c7667333b044a81398dc6a80655d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: machine01_Roughness_1001
+    second: {fileID: 2800000, guid: 5ec870fcc2eeb514a95485fa80c03b64, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

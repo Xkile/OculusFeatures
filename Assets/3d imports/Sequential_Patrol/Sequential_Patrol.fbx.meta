@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: a62ac17f96eb0e4428728f539e67a900
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bridge_and_tank_mat
+    second: {fileID: 2100000, guid: a707258c7a1c2774aaabbd2fc81a8cd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Environment
+    second: {fileID: 2100000, guid: 15886707622c82d42b2659f86f7a0c51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Module_Sequential_Patrol_1001
+    second: {fileID: 2100000, guid: 75c6dbcc6e953534ab5aabc41a699945, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Module_Sequential_Patrol_1002
+    second: {fileID: 2100000, guid: ff0e67bb1c682d943a84ce0f4e561ffd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Module_Sequential_Patrol_Meter_1001
+    second: {fileID: 2100000, guid: 7d64a8480321ac942a07c90589ad9120, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hpcl_Floor
+    second: {fileID: 2100000, guid: 190ba9ed0b83f26429134bbabc588f81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hpcl_mat
+    second: {fileID: 2100000, guid: 0533845620587954ba72757f26b7693f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Glass42
+    second: {fileID: 2100000, guid: 4f8c6a45d57e743499ca5226600cb878, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Machine01
+    second: {fileID: 2100000, guid: 536d802a95982bd46966dfed4866012b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bridge_and_tank_mat_Base_Color
+    second: {fileID: 2800000, guid: 80d6c04bbba212445a19b64382169cbc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bridge_and_tank_mat_Metallic
+    second: {fileID: 2800000, guid: c89c567d10e75db4b8f886e9ac4b99c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bridge_and_tank_mat_Normal_DirectX
+    second: {fileID: 2800000, guid: fa435d200c3c5fa468c7134127d8c2f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bridge_and_tank_mat_Opacity
+    second: {fileID: 2800000, guid: a3fae01f5d024d240bdbc423de905a85, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bridge_and_tank_mat_Roughness
+    second: {fileID: 2800000, guid: 4efc89e9a3628e0418fdf16ad83e3cb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Env
+    second: {fileID: 2800000, guid: b0da7f14a7997b24eae634ca8e4ef42e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floor_Base_Color
+    second: {fileID: 2800000, guid: a4f70d4b0130dd440ab1c9e39f80b07b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Module_Sequential_Patrol_Base_color_1001
+    second: {fileID: 2800000, guid: 9d94d7859eeb13941ab9d31e3ac5ecdd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Module_Sequential_Patrol_Base_color_1002
+    second: {fileID: 2800000, guid: e6f79304dcee8ec45ac0a443b72901b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Module_Sequential_Patrol_Metallic_1001
+    second: {fileID: 2800000, guid: 5c8df4319d1f76a438d30b0712cdb82a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Module_Sequential_Patrol_Metallic_1002
+    second: {fileID: 2800000, guid: 9421525bd367e5c4190174cdd15c03a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Module_Sequential_Patrol_Meter_Base_color
+    second: {fileID: 2800000, guid: 9306f2e482cbad541a2b4d51719d7f73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Module_Sequential_Patrol_Meter_Metallic
+    second: {fileID: 2800000, guid: bea0b25af8c49e647a627ffae1e2958b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Module_Sequential_Patrol_Meter_Mixed_AO
+    second: {fileID: 2800000, guid: 6c85f51685693bb47a6fe19ddd2151e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Module_Sequential_Patrol_Meter_Normal_OpenGL
+    second: {fileID: 2800000, guid: b9e43b1fd228bdd4fab421c47a9b6780, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Module_Sequential_Patrol_Meter_Roughness
+    second: {fileID: 2800000, guid: e3e34fee727071441be230d1d9a96e3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Module_Sequential_Patrol_Normal_OpenGL_1001
+    second: {fileID: 2800000, guid: da967c7c225e25843bdd607a0c5ec243, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Module_Sequential_Patrol_Normal_OpenGL_1002
+    second: {fileID: 2800000, guid: 83bdc689c8672d749b1512ff268b929b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Module_Sequential_Patrol_Roughness_1001
+    second: {fileID: 2800000, guid: 29708d4f19be128478d940538ccefbe8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Module_Sequential_Patrol_Roughness_1002
+    second: {fileID: 2800000, guid: bb9b1375575ca2d4ca152d20dc8bf220, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hpcl_Base_Color
+    second: {fileID: 2800000, guid: e771b620ef05d31488f6fc4286110c90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hpcl_Metallic
+    second: {fileID: 2800000, guid: 0b5bd05e7cf272442ae66e01df1529bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hpcl_Normal_DirectX
+    second: {fileID: 2800000, guid: 7acb2be7a4a8f1b40b70b49c93102359, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hpcl_Roughness
+    second: {fileID: 2800000, guid: 573f8c867f3779541822de159fccb64e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: machine01_Base_Color_1001
+    second: {fileID: 2800000, guid: f68b1ccf305d2034a904c1760ca81404, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: machine01_Metallic_1001
+    second: {fileID: 2800000, guid: 100c1f723488b5f4c9418b4add7cd82d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: machine01_Mixed_AO_1001
+    second: {fileID: 2800000, guid: 38c7102856143ee49b8d4617025f0c77, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: machine01_Normal_OpenGL_1001
+    second: {fileID: 2800000, guid: 6b450ee2291f4fe4dae1930baaf087aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: machine01_Roughness_1001
+    second: {fileID: 2800000, guid: 7c095c6e895751d4d8990f51384ee5b3, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
